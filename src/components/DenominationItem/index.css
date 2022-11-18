@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.button {
+  border-radius: 6px;
+  height: 40px;
+  width: 180px;
+  margin: 6px;
+  border: 1px solid #ffffff;
+  background-color: #382f5a;
+  color: #d4d2db;
+  font-size: 20px;
+  font-weight: 500;
+}
+.list-item {
+  list-style: none;
+}
